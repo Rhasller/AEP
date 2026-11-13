@@ -18,3 +18,7 @@ Atualmente, o planejamento das ações do PSE é feito em anotações, formulár
 
 **Exemplos de ações cadastráveis (dados fictícios, sempre coletivos):**
 - Gincana de Atividade Física — Escola Municipal A
+
+  ## Link do Vídeo
+
+  Segue link do vídeo solicitado na AEP postado no Youtube:
